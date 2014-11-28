@@ -1,0 +1,9 @@
+[submodule "AudioTrace/extern/glfw"]
+	path = AudioTrace/extern/glfw
+	url = git@github.com:glfw/glfw.git
+[submodule "AudioTrace/extern/glm"]
+	path = AudioTrace/extern/glm
+	url = git@github.com:g-truc/glm.git
+[submodule "AudioTrace/extern/glbinding"]
+	path = AudioTrace/extern/glbinding
+	url = git@github.com:hpicgs/glbinding.git
