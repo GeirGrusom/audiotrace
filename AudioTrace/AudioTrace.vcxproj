@@ -97,6 +97,7 @@
     <ClInclude Include="Effect.h" />
     <ClInclude Include="Listener.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="Octree.h" />
     <ClInclude Include="vec.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
